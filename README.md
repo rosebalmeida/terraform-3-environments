@@ -15,6 +15,7 @@ Crie 3 Workspaces:
 Crie 1 Bucket S3 com o parecido com: terraform-state-files
 
 Criar um módulo terraform que crie de forma dinâmica:
+
 	Network:
 		1 VPC; 
 		3 Subnets Privadas;
